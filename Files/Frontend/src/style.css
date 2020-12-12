@@ -1,0 +1,10 @@
+
+
+.navbarComponent li:hover {
+    background-color: black;
+}
+
+.navbarComponent link {
+    color: white;
+}
+
