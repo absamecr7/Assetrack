@@ -155,15 +155,3 @@ contract assetMonitor {
 
 }
 
-/*
-    tnk1, data1, ipfs1
-                                tnk1 added by vendor v1
-    tnk2, data2, ipfs2
-                                tnk2 added by vendor v2
-    tnk98, abhishek, moreshwar
-                                tnk98 added by abhi
-    tnk56, aaditi, surekha
-                                tnk56 added by tinu
-    tnk 45, just, now
-                                tnk45 added by kakde
-*/
