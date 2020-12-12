@@ -7,8 +7,8 @@ const abi_interface = compliedScript.abi_interface;
 
 
 const provider = new HDWalletProvider(
-  'bring merge vicious thing wash ethics enter cover blue denial zoo grit',
-  'https://rinkeby.infura.io/v3/fe9849311ce14a179bc384560f8260d8'
+  '<your 12 word phrase for metamask account>',
+  '<Your rinkeby key>'
   
 );
 
