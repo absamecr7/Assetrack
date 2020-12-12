@@ -1,8 +1,6 @@
 import web3 from './web3';
 
-// const fromAccount =  0xa233232fA65B7aE8Af2934458A5c7c47568a9f8a;
-
-const address = '0x45167Fc293981E7D5A948f67F0CA39ac813DA178';
+const address = '<Contract address>';
 
 const abi = [
 	{
